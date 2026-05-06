@@ -1,8 +1,8 @@
 # T4-week10 - Aplikasi CRUD PHP MySQL
 
-Nama : Muhammad Rifqy Habibi
+Nama  : Muhammad Rifqy Habibi
 
-NIM : F1D02410080
+NIM   : F1D02410080
 
 Kelas : Pemrograman Web
 
